@@ -12,4 +12,9 @@ git clone https://github.com/104117103111097108098101114116111057053/areaAlunoCr
 cd areaAlunoCruzeiroDoSul
 npm install
 ```
-### Edit 
+#### Edit 
+
+#### Create app Desktop
+```bash
+npm start
+```
