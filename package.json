@@ -1,0 +1,23 @@
+{
+  "name": "areaalunocruzeirodosul",
+  "version": "1.0.0",
+  "description": "Área do Aluno do Cruzeiro Do Sul Desktop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/104117103111097108098101114116111057053/areaAlunoCruzeiroDoSul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/104117103111097108098101114116111057053/areaAlunoCruzeiroDoSul/issues"
+  },
+  "homepage": "https://github.com/104117103111097108098101114116111057053/areaAlunoCruzeiroDoSul#readme",
+  "dependencies": {
+    "nativefier": "^42.2.1"
+  }
+}
