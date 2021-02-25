@@ -9,13 +9,14 @@ var options = {
     counter: true,
     honest: true,
     internalUrls: '.*?',
+    showMenuBar: true,
     maximize: 'true',
     //basicAuthUsername: '',
     //basicAuthPassword: '', 
     fileDownloadOptions: {
         saveAs: true,
     },
-}
+};
 
 nativefier(options, function (error, appPath) {
   if (error) {
