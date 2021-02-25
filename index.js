@@ -1,8 +1,9 @@
 var nativefier = require('nativefier').default;
 
-var options = {
-    singleInstance: true,
+var options = {  
     name: 'Cruzeiro do sul',
+    singleInstance: true,
+    targetUrl: 'https://novoportal.cruzeirodosul.edu.br/',
     platform: 'windows',
     arch: 'x64',
     counter: true,
